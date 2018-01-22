@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bomb
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Player
+  - Exit
+  - Bomb
+  - twoAwayRadius
+  - oneAwayRadius
+  - Gem
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 291570129
+    locked: 0
+  - name: Player
+    uniqueID: 17453567
+    locked: 0
+  - name: UI
+    uniqueID: 3182064569
+    locked: 0
+  - name: More UI
+    uniqueID: 1717323939
+    locked: 0
