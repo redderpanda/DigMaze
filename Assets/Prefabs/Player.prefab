@@ -254,7 +254,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9ae9b4fa2a019e44e847bccca424fbef, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 1
+  speed: 1.5
   digRate: 0
   ToDig:
     serializedVersion: 2
@@ -265,9 +265,13 @@ MonoBehaviour:
   dirtParticles: {fileID: 198481807452143344, guid: ac2408ee0dc4c8a4fb4741f26a10eee7,
     type: 2}
   myCanvas: {fileID: 0}
+  myCanvas2: {fileID: 0}
+  diamondsCollectedText: {fileID: 0}
   outcomeText: {fileID: 0}
   gameController: {fileID: 0}
   timeToDig: 0
+  diamondsCollected: 0
+  totalDiamonds: 0
 --- !u!124 &124690545480884484
 Behaviour:
   m_ObjectHideFlags: 1
