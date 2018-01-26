@@ -1,5 +1,4 @@
 # DigMaze
-ics161  first game
 Jared Chun
 ID:38515759
 email: jaredsc@uci.edu
